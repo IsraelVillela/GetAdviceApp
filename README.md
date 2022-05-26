@@ -4,4 +4,4 @@ Get Advice application rendered with React gives advice when site is opened and 
 
 Background photo taken by me, Israel I Villela from a local lake, SilverWood Lake in California
 
-Adive is fetched from 'https://api.adviceslip.com/advice' 
+Advice is fetched from 'https://api.adviceslip.com/advice' 
