@@ -1,9 +1,7 @@
-In the project directory, you can run:
+Site deployed via Netlify : https://euphonious-cannoli-afb679.netlify.app/
 
-### `npm start`
+Get Advice application rendered with React gives advice when site is opened and is given new adviced when button is clicked.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Background photo taken by me, Israel I Villela from a local lake, SilverWood Lake in California
 
-
-Hosted on Netlify : https://euphonious-cannoli-afb679.netlify.app/
+Adive is fetched from 'https://api.adviceslip.com/advice' 
